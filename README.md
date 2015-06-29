@@ -4,7 +4,7 @@
 
 #### Instantation
 
-- getDefaultProps *first use*
+- getDefaultProps (*first use*)
 - getInitialState
 - componentWillMount
 - render
